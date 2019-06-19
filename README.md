@@ -1,72 +1,49 @@
 # Seattle-Airbnb
+## Overview
 Predicting prices for Seattle Airbnb listings
 
 The different findings are in this medium post https://medium.com/@soumaya.jameleddine/spotlight-on-the-seattle-airbnb-landscape-76114d484b11
 
 
-Used libraries:
+## Used libraries:
 
-dateutil
++ dateutil
 
-eli5
++ eli5
 
-geopy
++ geopy
 
-matplotlib
++ matplotlib
 
-nltk
++ nltk
 
-numpy
++ numpy
 
-pandas
++ pandas
 
-scipy
++ scipy
 
-seaborn
++ seaborn
 
-sklearn
++ sklearn
 
-skopt
++ skopt
 
-tqdm
++ tqdm
 
-warnings
-
-Libraries installation with Pypi
-
-pip install eli5
-
-pip install geopy
-
-pip install matplotlib
-
-pip install nltk
-
-pip install numpy
-
-pip install pandas
-
-pip install scipy
-
-pip install seaborn
-
-pip install sklearn
-
-pip install tqdm
-
-Motivation for the project:
+## Motivation for the project:
 
 Explore the Seattle Airbnb landscape, what is the offering? what are the main drivers in predicting the price?
 Are there any surprises in the findings.
 This projects was chosen as a real life case study to better understand the airbnb market dynamics
 
-Files in the repository
+## Files in the repository
 
-README.md - this file
++ README.md - this file
 
-housing.ipynb -the jupyter notebook with all the data exploration, data wrangling and modeling
++ housing.ipynb -the jupyter notebook with all the data exploration, data wrangling and modeling
 
-acknowledgements:
+## acknowledgements:
 
 Udacity for providing with the different tools to analyze the data
 
